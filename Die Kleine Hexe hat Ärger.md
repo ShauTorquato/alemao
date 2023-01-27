@@ -6,18 +6,22 @@
 
 <p>Once upon a time there was a little witch, she was only a hundred and twenty seven years old, and that is no age for a witch.<br>
 <br>
-Sie wohnte in einem Hexenhaus, das stand einsam im tiefen Wald. 
+  <br>
+<p>Sie wohnte in einem Hexenhaus, das stand einsam im tiefen Wald. <br>
 
-She lived in a witch´s house that stood lonely in the deep forest.
+<p>She lived in a witch´s house that stood lonely in the deep forest.<br>
+<br>
+  <br>
+Weil es nur einer kleinen Hexe gehörte, war auch das Hexenhaus nicht besonders groß.<br>
 
-Weil es nur einer kleinen Hexe gehörte, war auch das Hexenhaus nicht besonders groß.
+<p>Because it belonged only to a little witch, the witch´s house wasn´t particularly big either.<br>
+<br>
+  <br>
+Der kleine Hexe genügte es aber, sie hätte sich gar kein schöneres Hexenhaus wünschen können.<br>
 
-Because it belonged only to a little witch, the witch´s house wasn´t particularly big either.
+<p>it was enough for the little witch, she couldn´t have asked for a nicer witch house.<br>
+<br>
+  <br>
+<p>Es hatte ein wundervoll windschiefes Dach, einen krummen Schornstein und klapprige Fensterläden.<br>
 
-Der kleine Hexe genügte es aber, sie hätte sich gar kein schöneres Hexenhaus wünschen können.
-
-it was enough for the little witch, she couldn´t have asked for a nicer witch house.
-
-Es hatte ein wundervoll windschiefes Dach, einen krummen Schornstein und klapprige Fensterläden.
-
-It had a wornderfully crooked roof, a crooked chimmney, and rickety shutters.
+<p>It had a wornderfully crooked roof, a crooked chimmney, and rickety shutters.<br>
