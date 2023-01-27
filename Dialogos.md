@@ -36,40 +36,32 @@
 
 ### Familie
 
-* Der Großvater - O avô
+* Der Großvater - O avô <br>
+  Die Großmutter - A avó <br>
+  Er und sie <br>
   
-  Die Großmutter - A avó
-  
-  Er und sie 
-  
-  
+ <br>
 
-* Der Vater - O pai
+* Der Vater - O pai <br>
+  Die Mutter - A mãe <br>
+  Er und sie <br>
   
-  Die Mutter - A mãe
-  
-  Er und sie 
-  
-  
+  <br>
 
-* Der Sohn - O filho
+* Der Sohn - O filho <br>
+  Die Tochter - A filha <br>
+  Er und sie <br>
   
-  Die Tochter - A filha
-  
-  Er und sie 
-  
-  
+  <br>
 
-* Der Onkel - O tio
+* Der Onkel - O tio <br>
+  Die Tante - A tia <br>
+  Er und sie <br>
   
-  Die Tante - A tia
-  
-  Er und sie 
-  
-  
+  <br>
 
-Wir sind eine Familie
+Wir sind eine Familie <br>
+Die Familie ist nicht klein <br>
+Die Familie ist groß<br>
 
-Die Familie ist nicht klein
-
-Die Familie ist groß
+<br>
