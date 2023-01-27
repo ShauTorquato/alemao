@@ -43,6 +43,7 @@
   Er und sie 
   
   
+
 * Der Vater - O pai
   
   Die Mutter - A mãe
@@ -50,6 +51,7 @@
   Er und sie 
   
   
+
 * Der Sohn - O filho
   
   Die Tochter - A filha
@@ -57,13 +59,14 @@
   Er und sie 
   
   
+
 * Der Onkel - O tio
   
   Die Tante - A tia
   
   Er und sie 
-
-
+  
+  
 
 Wir sind eine Familie
 
