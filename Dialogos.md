@@ -32,3 +32,41 @@
   Ich bin hier <br>
   Du bist hier <br>
   Er ist hier und sie ist hier <br>
+  <br>
+
+### Familie
+
+* Der Großvater - O avô
+  
+  Die Großmutter - A avó
+  
+  Er und sie 
+  
+  
+* Der Vater - O pai
+  
+  Die Mutter - A mãe
+  
+  Er und sie 
+  
+  
+* Der Sohn - O filho
+  
+  Die Tochter - A filha
+  
+  Er und sie 
+  
+  
+* Der Onkel - O tio
+  
+  Die Tante - A tia
+  
+  Er und sie 
+
+
+
+Wir sind eine Familie
+
+Die Familie ist nicht klein
+
+Die Familie ist groß
